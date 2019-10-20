@@ -1,6 +1,6 @@
     <div class="display_inline_block max_width_1920px">
         <div class="width_auto text_align_left float_left padding_0_1">
-            <h1>» <a href="/" target="_top">Webronen.fi</a> | Käyttökokemuspohjaista tuotekehitystä ratkaisukeskeisesti.</h1>
+            <h1>» <a href="/" target="_top">Webronen.fi</a> | Käyttökokemuspohjainen tuotekehitystä ratkaisukeskeisesti.</h1>
         </div>
         <div class="width_auto float_right padding_0_1 background_color_purple">
             <h1><a href="yhteydenotto" target="_top" class="color_white text_shadow_4px_4px_black">Yhteydenotto »</a></h1>
