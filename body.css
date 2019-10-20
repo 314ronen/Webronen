@@ -1,0 +1,149 @@
+html, body {
+    
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: white;
+    overflow: hidden auto;
+    letter-spacing: 1px;
+    text-align: center;
+    color: black;
+    margin: 0px;
+
+}
+
+a {
+
+    text-decoration: none;
+    color: black;
+
+}
+
+.text_align_justify {
+
+    text-align: justify;
+    
+}
+
+.background_color_black {
+
+    background-color: black;
+
+}
+
+.background_color_purple {
+
+    background-color: purple;
+
+}
+
+.height_5px {
+
+    height: 5px;
+
+}
+
+.text_shadow_4px_4px_black {
+
+    text-shadow: 4px 4px black;
+
+}
+
+.color_white {
+
+    color: white;
+
+}
+
+h1 {
+
+    font-size: 2.50em;
+
+}
+
+p {
+
+    font-size: 1.25em;
+
+}
+
+div {
+
+    width: 100%;
+
+}
+
+.width_98 {
+
+    width: 98%;
+    
+}
+.display_inline_block {
+
+    display: inline-block;
+
+}
+
+.max_width_1920px {
+
+    max-width: 1920px;
+
+} 
+
+.width_auto {
+
+    width: auto;
+
+}
+
+.float_left {
+
+    float: left;
+
+}
+
+.float_right {
+
+    float: right;
+
+}
+
+.clear_both {
+
+    clear: both;
+
+}
+
+.background_color_red {
+
+    background-color: rgb(238, 238, 238);
+
+}
+
+.padding_bottom_56d25 {
+
+    padding-bottom: 56.25%;
+
+}
+
+.padding_0_1 {
+
+    padding: 0% 1%;
+
+}
+
+.text_align_left {
+
+    text-align: left;
+
+}
+
+.margin_top_0px {
+
+    margin-top: 0px;
+
+}
+
+.margin_bottom_0px {
+
+    margin-bottom: 0px;
+    
+}
