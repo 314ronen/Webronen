@@ -1,4 +1,0 @@
-runtime: php72
-env: flex
-runtime_config:
-    document_root: .
